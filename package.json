@@ -1,6 +1,6 @@
 {
   "name": "pl-webservice",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PL Web Service",
   "main": "index.js",
   "scripts": {
